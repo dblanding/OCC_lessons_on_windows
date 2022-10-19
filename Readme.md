@@ -20,11 +20,11 @@
 			2. I then need to be able to implement their suggestions (in C++ on Windows)
 		* Only then will it make sense to translate the solution into Python syntax.
 			* I have already seen that there is no patience for broadening the scope of interest to include PythonOCC.
-			* I posted a comment on Lesson 15 with a link to my pythonOCC equivalent code to the C++ code and it was quietly and quickly removed.
+			* I posted a comment on Lesson 15 with a link to my pythonOCC equivalent code to the C++ code and it was quickly and silently removed.
 
 ```
 Important!
-As I went through the Quaor's Workshop OpenCascade tutorials, I learned that (with the exception of Lesson 2) they all use AIS Viewer to display solid shapes. The C++ code for using the AIS Viewer is written to ONLY compile on Windows.
+As I went through the Quaoar's Workshop OpenCascade tutorials, I learned that (with the exception of Lesson 2) they all use AIS Viewer to display solid shapes. The C++ code for using the AIS Viewer is written to ONLY compile on Windows.
 ```
 ## Below are the links to my notes on the Workshop lessons I followed on Windows using Visual Studio.
 
