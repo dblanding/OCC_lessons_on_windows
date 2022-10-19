@@ -4,9 +4,11 @@
 * OpenCascade does a nice job of loading / saving step files
     * On load, they go into an XCAF document
 * Using `chassis.step` as an example
-* Using Browser Tool from Analysis Situs [XDE In Nutshell](http://analysissitus.org/features/features_asm-xde-document.html) to examine
 
 ![Display of Chassis](images/chassis-display.png)
+
+* Using Browser Tool from Analysis Situs [XDE In Nutshell](http://analysissitus.org/features/features_asm-xde-document.html) to examine
+
 ![XDE Browser window](images/XDE-browser.png)
 
 * This is basically a **Scene Tree**.
